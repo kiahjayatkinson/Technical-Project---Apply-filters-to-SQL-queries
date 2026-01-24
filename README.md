@@ -2,7 +2,7 @@
 
 ## Project Description
 
-In this project, I needed to obtain specific information about employees, their machines, and the departments they belong to from the database. My team needed data to investigate potential security issues and to update computers. I was responsible for filtering the required information from the database. 
+In this project, I needed to obtain specific information about employees, their machines, and the departments they belong to from the database. My team needed data to investigate potential security issues and to update computers. I was responsible for filtering the required information from the database. In this project I used the MariaDB Server.
 
 ## Retrieve after hours failed login attempts
 
