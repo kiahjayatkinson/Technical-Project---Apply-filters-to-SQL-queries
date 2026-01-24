@@ -1,4 +1,4 @@
-# Technical Project - Apply filters to SQL queries
+# Apply filters to SQL queries
 
 ## Project Description
 
